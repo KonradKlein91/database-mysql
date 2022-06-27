@@ -23,3 +23,5 @@ The attached .sql files should be universal. But if you want to use the same too
 * HeidiSQL (https://www.heidisql.com/download.php)
 
 Make sure to create a user in the DBMS to access the database via HeidiSQL.
+
+[My image](KonradKlein91.github.com/database-mysql/ERD.jpeg)
